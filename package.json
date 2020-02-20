@@ -1,10 +1,10 @@
 {
-  "name": "fouth",
-  "version": "1.0.0",
+  "name": "jquerybuilder",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "fouth": "index.js"
+    "jquerybuilder": "index.js"
   },
   "dependencies": {
     "commander": "^4.1.1",
